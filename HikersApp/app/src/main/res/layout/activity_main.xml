@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/la"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:padding="0dp"
+        app:srcCompat="@drawable/test" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="67dp"
+        android:text="Hikers Watch"
+        android:textSize="30dp"
+        android:textColor="@android:color/holo_red_dark" />
+
+    <TextView
+        android:id="@+id/LatitudeTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="131dp"
+        android:text="Lat:202020"
+        android:textColor="@android:color/holo_orange_light"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/LongitudeTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/LatitudeTextView"
+        android:layout_marginTop="177dp"
+        android:text="Long:303030"
+        android:textColor="@android:color/holo_red_light"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/accuracyTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/LatitudeTextView"
+        android:layout_marginTop="239dp"
+        android:text="Accuracy"
+        android:textColor="@android:color/holo_blue_light"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/heightTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/LatitudeTextView"
+        android:layout_marginBottom="247dp"
+        android:text="Height"
+        android:textColor="@android:color/holo_purple"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/addressTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/LatitudeTextView"
+        android:layout_marginBottom="142dp"
+        android:text="Lig 2/23 \nmount Everest \nofgood"
+        android:textColor="@android:color/holo_green_light"
+        android:textColorHighlight="@android:color/holo_green_dark"
+        android:textSize="20dp" />
+</RelativeLayout>

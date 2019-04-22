@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "386393905276",
+    "firebase_url": "https://instaclonecheck.firebaseio.com",
+    "project_id": "instaclonecheck",
+    "storage_bucket": "instaclonecheck.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386393905276:android:61c25f78cb76b155",
+        "android_client_info": {
+          "package_name": "avinash.com.instacheck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386393905276-4spevkh3hd36ic56avrn0mkf4l38qs72.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "avinash.com.instacheck",
+            "certificate_hash": "6e4130bccda07041fc4db146b86d1b64c521a386"
+          }
+        },
+        {
+          "client_id": "386393905276-seca7tesmkgbqhh59a1jvfhg0grinr0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXamO5kH4vm0eCtPN-Z9rPHZcbcL0oOIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386393905276-seca7tesmkgbqhh59a1jvfhg0grinr0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

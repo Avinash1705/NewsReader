@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "441286642542",
+    "firebase_url": "https://dependencycheck-53cc4.firebaseio.com",
+    "project_id": "dependencycheck-53cc4",
+    "storage_bucket": "dependencycheck-53cc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441286642542:android:e7e5d1ad7e076b22",
+        "android_client_info": {
+          "package_name": "avinash.com.dependencycheck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441286642542-b7n4nt7ocpcf1ffnrrc9h24b2ppos2dv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlcRShqdttB4aQXA0hCli827Qm-x5hk10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441286642542-b7n4nt7ocpcf1ffnrrc9h24b2ppos2dv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

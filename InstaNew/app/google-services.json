@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "27458428390",
+    "firebase_url": "https://instanew-e5aa9.firebaseio.com",
+    "project_id": "instanew-e5aa9",
+    "storage_bucket": "instanew-e5aa9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27458428390:android:c33ce25153e163dd",
+        "android_client_info": {
+          "package_name": "avinash.com.instanew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27458428390-lv3558d2s77arg2skdmanimr9uuke2or.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "avinash.com.instanew",
+            "certificate_hash": "6e4130bccda07041fc4db146b86d1b64c521a386"
+          }
+        },
+        {
+          "client_id": "27458428390-v9hnvl44u9pbofek7kcr1vfpfb365u5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD09kasCnCFl_4Pz5TXvNbVWJXLRs8RGKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27458428390-v9hnvl44u9pbofek7kcr1vfpfb365u5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

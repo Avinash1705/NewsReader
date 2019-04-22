@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "227353035825",
+    "firebase_url": "https://trinsta-76e46.firebaseio.com",
+    "project_id": "trinsta-76e46",
+    "storage_bucket": "trinsta-76e46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227353035825:android:1c6e454ee2e340c5",
+        "android_client_info": {
+          "package_name": "avinash.com.trinsta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227353035825-j38gudtjpbdh2ap9tevj45u7pvpibpbc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "avinash.com.trinsta",
+            "certificate_hash": "6e4130bccda07041fc4db146b86d1b64c521a386"
+          }
+        },
+        {
+          "client_id": "227353035825-t6r1pafd9b6cgtfiabtvgm7qito4u5l8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeDbndt6hGgR8F0FNWyDXr0Em20zXbwng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227353035825-t6r1pafd9b6cgtfiabtvgm7qito4u5l8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
